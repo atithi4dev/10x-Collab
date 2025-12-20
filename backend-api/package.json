@@ -1,7 +1,7 @@
 {
-  "name": "yt-backend",
+  "name": "10x-collab",
   "version": "1.0.0",
-  "description": "A project inspired by youtube",
+  "description": "10x-collab",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
